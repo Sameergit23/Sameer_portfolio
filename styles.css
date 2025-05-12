@@ -953,7 +953,7 @@ input, textarea {
     border-radius: 8px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     display: none;
-    z-index: 10;
+    z-index: 10000000;
 }
 
 .popup.show {
